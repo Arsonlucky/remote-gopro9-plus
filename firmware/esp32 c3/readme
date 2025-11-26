@@ -1,0 +1,2 @@
+ini firmware untuk esp32 c3.
+perhatikan pinnya untuk setup pin dapat dilakukan pada webserver dari pin trigger dan pin led builtin
